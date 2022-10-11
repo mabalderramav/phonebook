@@ -1,0 +1,2 @@
+﻿# Build project
+dotnet build .\MiasoftNanus.Phonebook.DataAccess\
